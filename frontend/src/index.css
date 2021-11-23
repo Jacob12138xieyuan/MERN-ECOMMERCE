@@ -1,0 +1,43 @@
+main {
+	min-height: 80vh;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 1.8rem;
+	padding: 1rem 0;
+}
+
+h2 {
+	font-size: 1.4rem;
+	padding: 0.5rem 0;
+}
+
+h3 {
+	padding: 1rem 0;
+}
+
+.rating span {
+	margin: 0.1rem;
+}
+
+.change-qty-button {
+	/* width: 40px;
+	height: 40px; */
+	padding: 0.6rem;
+	font-size: 1.5rem;
+}
+
+.qty-input {
+	border-radius: 0;
+	text-align: center;
+	font-size: 1.5rem;
+	/* height: 40px; */
+	width: 40px;
+	background-color: white;
+	border-left: 0px;
+	border-right: 0px;
+}
