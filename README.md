@@ -12,9 +12,11 @@
 - PAYPAL_CLIENT_ID = \*\*\*
 
 2. To start front end and back end
-   ```
-   npm run dev
-   ```
+
+```
+npm run dev
+```
+
 3. To start front end
 
 ```
